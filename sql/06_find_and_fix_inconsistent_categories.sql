@@ -1,4 +1,4 @@
--- 11_find_inconsistent_categories
+-- 09_find_inconsistent_categories
 -- Purpose: show only products whose category is written inconsistently
 -- Result: 2 rows, PROD-02 ('serum ') and PROD-05 ('TONER')
 SELECT
@@ -11,7 +11,7 @@ SELECT
 FROM beauty_churn.dim_product_step4
 WHERE Product_Category != REPLACE(INITCAP(TRIM(Product_Category)), 'Spf', 'SPF');
 
--- 12_fix_inconsistent_categories
+-- 10_fix_inconsistent_categories
 -- Purpose: trim spaces and standardize category capitalization
 -- Result: 4 clean categories (Cleanser, Moisturizer & SPF, Serum, Toner)
 CREATE OR REPLACE TABLE beauty_churn.dim_product_step4 AS
