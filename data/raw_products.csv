@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Product_Category,Active_Strength_Level,Expected_Refill_Days,Unit_Cost_USD,Retail_Price_USD
+PROD-01,Ceramide Barrier Repair Cream 50ml,Moisturizer & SPF,Gentle / Barrier Safe,30,10,34
+PROD-02,Hyaluronic Acid B5 Hydrating Serum 30ml,serum ,Gentle / Barrier Safe,45,9,32
+PROD-03,Centella Calming Gel Cleanser 150ml,Cleanser,Gentle / Barrier Safe,60,7,24
+PROD-04,Ultra-Light Invisible Fluid SPF50+ 50ml,Moisturizer & SPF,Gentle / Barrier Safe,30,8,29
+PROD-05,Squalane + Oat Soothing Milky Toner 150ml,TONER,Gentle / Barrier Safe,45,8,27
+PROD-06,Peptide Firming Eye & Neck Cream 30ml,Moisturizer & SPF,Gentle / Barrier Safe,45,13,46
+PROD-07,Niacinamide 10% + Zinc Pore Refining Serum 30ml,Serum,Moderate Active,45,-8,28
+PROD-08,Vitamin C 15% + Ferulic Glow Serum 30ml,Serum,Moderate Active,45,12,42
+PROD-09,Azelaic Acid 10% Redness Relief Serum 30ml,Serum,Moderate Active,45,10,35
+PROD-10,Salicylic Acid 2% BHA Clarifying Cleanser 150ml,Cleanser,Moderate Active,60,7,25
+PROD-11,PHA + Kombucha Glow Essence Toner 150ml,Toner,Moderate Active,45,9,30
+PROD-12,Bakuchiol 1% Gentle Retinol Alternative 30ml,Serum,Gentle / Barrier Safe,45,11,38
+PROD-13,Clinical Retinol 1.0% Night Renewal Cream 30ml,Moisturizer & SPF,High-Strength Active (Purging Risk),45,14,9
+PROD-14,AHA 10% + BHA 2% Exfoliating Acid Toner 150ml,Toner,High-Strength Active (Purging Risk),45,9,33
+PROD-15,Glycolic Acid 15% Resurfacing Night Peel 30ml,Serum,High-Strength Active (Purging Risk),45,11,40
+PROD-16,Adapalene 0.1% Clinical Acne Clearing Gel 30g,Serum,High-Strength Active (Purging Risk),30,10,36
+PROD-17,Benzoyl Peroxide 5% Intensive Acne Wash 150ml,Cleanser,High-Strength Active (Purging Risk),45,8,26
+PROD-18,Vitamin C 23% Pure L-Ascorbic Suspension 30ml,Serum,High-Strength Active (Purging Risk),30,12,44
+PROD-01,Ceramide Barrier Repair Cream 50ml,Moisturizer & SPF,Gentle / Barrier Safe,30,10,34
+PROD-13,Clinical Retinol 1.0% Night Renewal Cream 30ml,Moisturizer & SPF,High-Strength Active (Purging Risk),45,14,9
